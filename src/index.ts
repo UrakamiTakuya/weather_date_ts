@@ -5,6 +5,6 @@
 // world.sayHello(root);
 
 
-import { bmiCalculate } from './basic'
+import { weather } from './basic'
 
-bmiCalculate();
+weather();
